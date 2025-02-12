@@ -98,7 +98,7 @@ Only those who contribute to the financial aid fund may vote on aid-related deci
 
 ### Overseers
 
-OOverseers are responsible for managing the Stokvel and are often the finance holder. They may appoint a secondary overseer to assist them. Overseers have the authority to override votes in cases of suspected foul play. They can be replaced through a 75% majority vote.
+Overseers are responsible for managing the Stokvel and are often the finance holder. They may appoint a secondary overseer to assist them. Overseers have the authority to override votes in cases of suspected foul play. They can be replaced through a 75% majority vote.
 
 ## Stokvel Term Adjustments
 
